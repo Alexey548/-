@@ -1,0 +1,21 @@
+.playlistsPage {
+  padding: 16px;
+}
+
+.filters {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+
+}
+
+.filters input {
+  padding: 8px;
+  font-size: 16px;
+
+
+}
+
+.genres {
+  margin: 8px 0;
+} 
